@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @HaleKara
-- 🌱 I’m currently learning flutter. 
+- 🌱 I’m currently learning software.
+- ✨ I'm actually an architect. But now I'm doing master at Computer Engineering in Başkent University.
+- 🌱 I'm looking at the world from a different angle. 
 
 
 <!---
